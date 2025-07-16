@@ -45,4 +45,4 @@ awk '/^>/ {print ">Gene_" ++count "_" substr($0, 2); next} {print}' muscle_cytb_
 for muscle in muscle\_\* do iqtree2 -s \${muscle} done
 ```
 -   Para poder visualizar el arbol necesitamos el uso de Figtree v1.4.5
-[Filogenia Phyllodactylus gen cytb](https://github.com/Joaquin1602/Phyllodactylus_proyect/blob/main/Filogenia%20Phyllodactylus.pdf)
+-   [Filogenia Phyllodactylus gen cytb](https://github.com/Joaquin1602/Phyllodactylus_proyect/blob/main/Filogenia%20Phyllodactylus.pdf)
