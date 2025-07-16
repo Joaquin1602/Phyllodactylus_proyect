@@ -46,3 +46,4 @@ for muscle in muscle\_\* do iqtree2 -s \${muscle} done
 ```
 -   Para poder visualizar el arbol necesitamos el uso de Figtree v1.4.5
 -   [Filogenia Phyllodactylus gen cytb](https://github.com/Joaquin1602/Phyllodactylus_proyect/blob/main/Filogenia%20Phyllodactylus.pdf)
+-  [**SCRIPT**]()
